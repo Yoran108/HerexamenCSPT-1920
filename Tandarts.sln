@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30105.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLaag", "DataLaag\DataLaag.csproj", "{3FF1F06A-8A57-4FBF-AF65-D9F1D554326A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLaag", "DataLaag\DataLaag.csproj", "{3FF1F06A-8A57-4FBF-AF65-D9F1D554326A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaLaag", "LogicaLaag\LogicaLaag.csproj", "{79F3A2FB-3E6B-4C22-B4BE-8D6F9F11EA80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicaLaag", "LogicaLaag\LogicaLaag.csproj", "{79F3A2FB-3E6B-4C22-B4BE-8D6F9F11EA80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{C1522B99-56A5-431B-A7F6-4903BDB2A0F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI", "GUI\GUI.csproj", "{C1522B99-56A5-431B-A7F6-4903BDB2A0F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
